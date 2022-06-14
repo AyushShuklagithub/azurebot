@@ -1,7 +1,7 @@
-# Hospital Details Consulting Bot
+# Medical clinic Details Consulting Bot
 
-This repository is made for Future Ready Talent internship programme.
+This repo is made for Future Ready Talent Internship by MICROSOFT.
 
-If there is any copyright issue, feel free to contact us.
+Assuming there is any copyright issue, go ahead and get in touch with us.
 
-This website is made and developed by Aditya Sharma @extinctison
+This site is made and created by Ayush Shukla
